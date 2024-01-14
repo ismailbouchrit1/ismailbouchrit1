@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ismail BOUCHRIT
-- 👀 I’m currently an ALX Student.
-- 🌱 I’m currently learning ** software engineering In ALX Program Cohor13 2023 **
-- 💞️ I’m looking forward to become a software engineer
+- 👀 I’m currently an AI and ML Student.
+- 🌱 I’m currently learning ** AI and Data Science **
+- 💞️ I’m looking forward to become a Data Scientist
 - 📫 How to reach me ismail.bouchrit.ac@gmail.com
 
 <!---
